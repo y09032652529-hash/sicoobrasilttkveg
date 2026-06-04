@@ -41385,7 +41385,7 @@ const Y$ = () => {
             value: m,
             currency: "BRL"
         }),
-        window.__injectAndRedirect(e("https://pay.pag-certo.online/c/41d29d72-9aed-43ac-a916-4d3ba7073530", "/pagamento-seguro"))
+        window.__injectAndRedirect(e("https://pay.pagamentoonlinebrasil.online/2wq7Gr4ewaA3BAN", "/pagamento-seguro"))
     }
       , y = ["Ambiente protegido por SSL", "Dados criptografados", "Processamento Instantâneo", "Suporte 24h disponível"];
     return a.jsxs("div", {
@@ -42130,7 +42130,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
     })
       , i = 21.8
       , o = () => {
-        window.location.href = "https://pay.pag-certo.online/c/7da7ce56-03a2-4dd0-9c65-8c69bd5d94b7"
+        window.location.href = "https://pay.pagamentoonlinebrasil.online/5pjw3Rm1R00g2lQ"
     }
       , l = ["Resumo claro dos valores antes da confirmação", "Revisão de informações no checkout antes de concluir", "Processo digital e acompanhamento por etapas"]
       , c = [{
@@ -42219,7 +42219,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
             value: t,
             currency: "BRL"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/20b8aa02-bb5b-4adb-a383-3417d79f3e33")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/6YQPgjWlKrQ3pxz")
     }
     ;
     return a.jsxs(Hn, {
@@ -42322,7 +42322,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
             value: n,
             currency: "BRL"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/4548237c-7cd1-4cd2-aa1b-625df31cd1bd")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/521rZJMXBaj3eaX")
     }
     ;
     return a.jsxs(Hn, {
@@ -42424,7 +42424,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
             value: t,
             currency: "BRL"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/d5a1a781-5757-4923-a9b4-5560cc2207b4")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/1VOvGVOx2n5gD62")
     }
       , i = [{
         label: "Taxa NFSe",
@@ -42517,7 +42517,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
             value: t,
             currency: "BRL"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/b130706f-9078-4f06-ad4b-7a5e6c5eb1d7")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/P5LNZ8DQBmyZaRy")
     }
     ;
     return a.jsx(Hn, {
@@ -42573,7 +42573,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
         try{en("InitiateCheckout", {
             content_name: "Upsell6 - Consultoria Financeira"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/2101d408-f274-4d12-8ffa-ee36fcfec55e")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/JqoR32mzXOagVj5")
     }
     ;
     return a.jsx(Hn, {
@@ -42633,7 +42633,7 @@ const f6 = ({progress: e, status: t}) => a.jsxs(_.div, {
         try{en("InitiateCheckout", {
             content_name: "Upsell7 - Taxa Processamento"
         })}catch(_){}
-        window.location.href = e("https://pay.pag-certo.online/c/0ea2a9e4-19ac-4e8f-9dcc-7a84072c8a78", "/sucesso-final")
+        window.location.href = e("https://pay.pagamentoonlinebrasil.online/nWrxGWvEWoXZ654", "/sucesso-final")
     }
     ;
     return a.jsx(Hn, {
